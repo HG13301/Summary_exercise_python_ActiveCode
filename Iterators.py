@@ -13,7 +13,7 @@ def sinx_x(x):
 def cosx_x(x):
     if (x == 0):
         return 1
-    cos(x) / x
+    return cos(x) / x
 
 
 # exe3
